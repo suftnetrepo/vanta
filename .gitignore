@@ -1,0 +1,54 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Xcode
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+
+# Android
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.cxx/
+
+# VSCode
+.vscode/
+
+# Misc
+.env
+*.keystore
+*.p8
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig
+*.swp
+*.swo
+
+# Test
+coverage/
+
+# Others
+*.log
+*.tmp
+*.temp
+
+# Expo prebuild
+ios/Pods/
